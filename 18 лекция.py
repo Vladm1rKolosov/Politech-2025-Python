@@ -1,4 +1,4 @@
-# # 17 лекция
+# # 18 лекция
 
 # # Классификация
 # # 1. Загрузка изображения
@@ -49,7 +49,7 @@
 
 # print(decode_predictions(prediction))
 
-# # 17.1 лекция
+# # 18.1 лекция
 
 # # Название папок = название категории
 
@@ -145,7 +145,7 @@
 
 # target_model.save("data/our_model.h5")
 
-# 17.2 лекция
+# 18.2 лекция
 
 from keras.models import load_model
 
